@@ -43,3 +43,5 @@ A web design skeleton using HTML/CSS
 3. The width of the section should be:
 
 - section: 495px
+
+![Wirefram Image](/Image/Easier-Layout.png)
