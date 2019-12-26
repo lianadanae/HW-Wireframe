@@ -1,71 +1,56 @@
-* {
-    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: #777;
     background: #777;
     width: 960px;
-    margin: 10 auto;
+    margin: auto;
     font-size: 18px;
-    box-sizing: content-box;
-    margin: 5px 22px 0px 10px;
-    padding: 12px 12px 50px 15px;
-    text-align: center;
 }
 
-.header {
-    background: #ebebeb;
-    padding: 30px 12px 40px 15px;
-    margin: 10px;
+header,
+nav,
+section,
+aside,
+footer {
+  display: block;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background: #ebebeb;
 }
 
-.nav {
-    background: #ebebeb;
-    padding: 30px 12px 45px 15px;
-    margin: 10px;
+section {
+  display: block;
+  float: left;
+  width: 495px;
+  height: 267px;
+  overflow: hidden;
 }
 
-.section {
-    float: left;
-    background: #ebebeb;
-    width: 475px;
-    margin: 10px 10px 15px 10px;
-    padding: 30px;
-    height: 220px;
-}
-
-.article {
+article {
+    padding: 10px;
     background: #777;
     color: #ebebeb;
-    width: 465px;
-    height: 100px;
-    margin: 55px 0px 0px 0px;
 }
 
-.h1 {
-    background: #ebebeb;
-    width: auto;
+h1, 
+p {
+    width: 90%;
     margin: 10px;
     padding: 10px;
+    color: #777777;
+    text-align: center;
+    background: #ebebeb;
 }
 
-.p {
-    background: #ebebeb;
-    width: auto;
-    margin: 10px;
-    padding: 10px;
+aside {
+    display: block;
+    float: right;
+    width: 40%;
+    height: 267px;
+    overflow: hidden;
 }
 
-.aside {
-    float: left;
-    background: #ebebeb;
-    width: 350px;
-    height: 220px;
-    margin: 10px 20px 15px 5px;
-    padding: 40px 5px 20px 25px;
-}
-
-.footer {
-    background: #ebebeb;
-    margin: 10px;
-    padding: 30px 12px 45px 15px;
+.clear {
     clear: both;
 }
