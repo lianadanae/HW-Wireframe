@@ -44,4 +44,4 @@ A web design skeleton using HTML/CSS
 
 - section: 495px
 
-![Wirefram Image](/Image/Easier-Layout.png)
+![Wireframe Image](/Image/Easier-Layout.png)
