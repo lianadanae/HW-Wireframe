@@ -44,4 +44,4 @@ A web design skeleton using HTML/CSS
 
 - section: 495px
 
-![Wireframe Image](/Image/Easier-Layout.png)
+![Wireframe Image]([https://uconn.bootcampcontent.com/university-of-connecticut/CONN-STMF-FSF-PT-07-2019-U-C/raw/master/homework/homework_01/Images/Easier-Layout.png])
